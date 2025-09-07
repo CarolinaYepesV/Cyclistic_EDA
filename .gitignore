@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+.env/
+
+#DATASETS
+data_cyclistic_csv/
+data/**
+
+#CACHE
+cache/
+
+#OUTPUT
+output/
