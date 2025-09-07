@@ -18,7 +18,6 @@ python -m venv venv
 venv\Scripts\activate
 # Linux/Mac
 source venv/bin/activate
-Instalar las dependencias
 ---
 # Instalar dependencias
 pip install -r requirements.txt
