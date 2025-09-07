@@ -2,15 +2,6 @@
 
 Este proyecto realiza un **Análisis Exploratorio de Datos (EDA)** sobre los viajes de bicicletas compartidas de **Cyclistic**.  
 El notebook `bicycles.ipynb` contiene la carga, limpieza, combinación de archivos y análisis de los datos.
-
----
-
-## 📂 Estructura del proyecto
-├── bicycles.ipynb # Notebook principal con el análisis
-├── get_data.py # Script para descargar los datos desde Kaggle
-├── requirements.txt # Dependencias del proyecto
-├── data/ # Carpeta donde se guardarán los datasets (no incluida en Git)
-└── README.md # Este archivo
 ---
 ## 📦 Requisitos previos
 
